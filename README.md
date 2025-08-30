@@ -18,4 +18,4 @@ El objetivo principal es mostrar mis conocimientos técnicos y prácticos en **d
 
 ## 📷 Vista previa
 
-(./img/Screenshot_1.png)
+![Vista previa del CV](./img/Screenshot_1.png)
